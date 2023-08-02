@@ -1,1 +1,1 @@
-# temp_b2b_repo
+## atomic design pattern project
